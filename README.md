@@ -12,7 +12,7 @@ Released under the MIT license: http://jsbin.mit-license.org
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RIVS BROWSER</title>
+    <title>mathsman</title>
     <!-- SECURITY ENHANCEMENT: Prevents sending this page's URL as a referrer to external sites. -->
     <meta name="referrer" content="no-referrer">
     
